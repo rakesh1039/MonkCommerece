@@ -1,4 +1,4 @@
-# MonkCommerece
+# MonkCommerce
 # This project is a Spring Boot and MySQL implementation of a Coupon Management System. It supports multiple coupon types, validates payloads, and applies discounts to shopping carts.
 
 # Features Implemented
